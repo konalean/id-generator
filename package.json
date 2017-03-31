@@ -1,0 +1,19 @@
+{
+  "name": "id-generator",
+  "version": "0.0.1",
+  "description": "ID Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid", "id"
+  ],
+  "author": {
+    "name": "Kon"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "uuid": ">=1.4.3"
+  }
+}
